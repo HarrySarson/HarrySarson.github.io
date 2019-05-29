@@ -5,11 +5,11 @@
 
 @import 'themes/colors';
 
-$table-width: 800px;
-$table-height: 550px;
+$table-width: 900px;
+$table-height: 600px;
 
-$rows: 3;
-$cols: 2;
+$rows: 2;
+$cols: 3;
 $padding: 15px;
 
 $cell-height: ($table-height - $padding)/$rows - $padding;
