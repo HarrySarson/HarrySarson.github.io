@@ -5,7 +5,10 @@
   {{ partial "portfolio/tags" .}}
 </div>
 
+
+<a target="_blank" href="{{.Params.projectUrl}}">
 <img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
+</a>
 
 {{ .Content }}
 
