@@ -1,8 +1,8 @@
 ---
 title: SarsonWedding
 description: Website for my wedding
-date: "2021-06-05"
-jobDate: 2024
+date: "2024-05-08"
+jobDate: 2021
 work: []
 techs: [elm]
 thumbnail: sarsonwedding/thumbnail.png

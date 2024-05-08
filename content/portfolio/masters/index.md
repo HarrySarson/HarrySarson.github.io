@@ -2,7 +2,7 @@
 title: Uncertainty Propagtion Masters Project
 description: A Floating-Point Arithmetic Logic Unit for Uncertainty Propagation
 date: "2022-09-01"
-jobDate: 2022
+jobDate: 2019
 work: []
 techs: [c, thinking]
 thumbnail: masters/front-cover.png
