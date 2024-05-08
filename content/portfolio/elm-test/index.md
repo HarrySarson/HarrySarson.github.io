@@ -5,7 +5,7 @@ date: "2021-02-02"
 jobDate: 2021
 work: []
 techs: [elm]
-thumbnail: elm-test/thumbnail.png
+thumbnail: elm-test/thumbnail.webp
 projectUrl: https://github.com/rtfeldman/node-test-runner
 ---
 
